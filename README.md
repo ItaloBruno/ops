@@ -9,6 +9,6 @@ Este é o repositorio que será amadurecida e desenvolvida uma palestra para o e
 O tema da palestra será uma introdução a ideia de DEVOPS e como todos podemos ajudar a propagar e exercer essa cultura.
 
 ### Autores e Palestrantes
-Daniel Silva [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="thatdaniboy github" style="width:20px;height:20px;">](https://github.com/thatdaniboy)
+Daniel Silva [<img src="./Assets/github-logo.png" alt="thatdaniboy github">](https://github.com/thatdaniboy)
 
-Italo "Foice" Bruno [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="ItaloBruno github" style="width:20px;height:20px;">](https://github.com/ItaloBruno)
+Italo "Foice" Bruno [<img src="./Assets/github-logo.png" alt="ItaloBruno github">](https://github.com/ItaloBruno)
