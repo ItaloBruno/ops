@@ -6,10 +6,12 @@ Aqui estão os links ou referencias de sites, livros ou qualquer outro tipo de m
 ## Conteúdo
 
 #### Links
-
+- [RedHat - O que é DevOps e como funciona na prática?](https://www.redhat.com/pt-br/topics/devops#?)
+- [4linux treinamento - O que é DevOps](https://www.4linux.com.br/o-que-e-devops)
+- [AWS - O que é Devops?](https://aws.amazon.com/pt/devops/what-is-devops/)
 
 #### Videos
-
+- [SemanaDevOps Ep1 - O que é DevOps?](https://www.youtube.com/watch?v=HzX6ZhmUjoE)
 
 #### Podcasts
  - [PodProgramar #59 - DevOps](https://podprogramar.com.br/pp-59-devops/)
@@ -18,8 +20,10 @@ Aqui estão os links ou referencias de sites, livros ou qualquer outro tipo de m
 
 #### Eventos
 - [DevOps Days](https://devopsdays.org)
+- [Semana DevOps](https://www.semanadevops.com.br/)
 
 #### Palestras
+- [DevOps na Vida Real - Jeferson Noronha](https://www.youtube.com/watch?v=KbvfV01tSig)
 
 ### Livros
 - [O Projeto Fênix: Um romance sobre TI, DevOps e sobre ajudar o seu negócio a vencer](http://www.altabooks.com.br/o-projeto-fenix-um-romance-sobre-ti-devops-e-sobre-ajudar-o-seu-negocio-a-vencer.html)
