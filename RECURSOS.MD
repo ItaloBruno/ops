@@ -10,6 +10,11 @@ Aqui estão os links ou referencias de sites, livros ou qualquer outro tipo de m
 - [4linux treinamento - O que é DevOps](https://www.4linux.com.br/o-que-e-devops)
 - [AWS - O que é Devops?](https://aws.amazon.com/pt/devops/what-is-devops/)
 
+#### Ferramenta usada na palestra (Docker)
+- [Docker](https://www.docker.com/get-started)
+- [Docker Hub](https://hub.docker.com/)
+- [Docker na prática – como construir uma aplicação?](https://blog.geekhunter.com.br/docker-na-pratica-como-construir-uma-aplicacao/) 
+
 #### Videos
 - [SemanaDevOps Ep1 - O que é DevOps?](https://www.youtube.com/watch?v=HzX6ZhmUjoE)
 
@@ -28,3 +33,7 @@ Aqui estão os links ou referencias de sites, livros ou qualquer outro tipo de m
 ### Livros
 - [O Projeto Fênix: Um romance sobre TI, DevOps e sobre ajudar o seu negócio a vencer](http://www.altabooks.com.br/o-projeto-fenix-um-romance-sobre-ti-devops-e-sobre-ajudar-o-seu-negocio-a-vencer.html)
 - [Manual de DevOps: Como obter agilidade, confiabilidade e segurança em organizações tecnológicas](http://www.altabooks.com.br/manual-de-devops-como-obter-agilidade-confiabilidade-e-seguranca-em-organizacoes-tecnologicas.html)
+
+### Comunidades
+- [Devops BR](https://t.me/devopsbr)
+- [DevOps-CE](https://t.me/devopsce)
