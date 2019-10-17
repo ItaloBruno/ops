@@ -33,6 +33,7 @@ Aqui estão os links ou referencias de sites, livros ou qualquer outro tipo de m
 ### Livros
 - [O Projeto Fênix: Um romance sobre TI, DevOps e sobre ajudar o seu negócio a vencer](http://www.altabooks.com.br/o-projeto-fenix-um-romance-sobre-ti-devops-e-sobre-ajudar-o-seu-negocio-a-vencer.html)
 - [Manual de DevOps: Como obter agilidade, confiabilidade e segurança em organizações tecnológicas](http://www.altabooks.com.br/manual-de-devops-como-obter-agilidade-confiabilidade-e-seguranca-em-organizacoes-tecnologicas.html)
+- [Devops para desenvolvedores](https://github.com/gomex/docker-para-desenvolvedores)
 
 ### Comunidades
 - [Devops BR](https://t.me/devopsbr)
